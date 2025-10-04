@@ -1,5 +1,7 @@
 # CRIMSON RPG
-CRIMSON RPG is my RPG project made in 2016, which is heavily inspired by darkness999999's Legend of Excalibur RPG, now open-source for the Roblox OSS / RPG community.
+CRIMSON RPG is my RPG project made in 2016, which is heavily inspired by darkness999999's Legend of Excalibur RPG, now open-source for the Roblox OSS & Classic RPG community.
+
+This repository contains every version of the game up to XXX.
 
 ![](game_thumbnail.png)
 
